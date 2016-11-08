@@ -1,0 +1,14 @@
+[
+    {"image":"http://placehold.it/500x400", "title":"Hello World", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"119", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 2", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"129", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 3", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"139", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 4", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"149", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 5", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"159", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 6", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"169", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 1", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"179", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 2", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"189", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 3", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"199", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 4", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"209", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 5", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"219", "instock":true},
+    {"image":"http://placehold.it/500x400", "title":"Product Tittle 6", "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.", "price":"229", "instock":true}
+]
